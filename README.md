@@ -1,8 +1,8 @@
 # Pranav Jadhav
 
-I am a machine learning enthusiast and competitive programmer. 
+I am a machine learning enthusiast and competitive programmer. Currently in high school.
 
-# Credentials
+## Credentials
 
 ### Projects
 * USACO Silver

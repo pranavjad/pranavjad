@@ -7,6 +7,7 @@ I am a machine learning enthusiast and competitive programmer. Currently in high
 ### Projects
 * USACO Silver
 * Created a neural network model to forecast rainfall-runoff
+* Ethereum cryptocurrency graphing and charting webapp and api support by a custom dataset: https://ethereumdata.info/
 
 ### Languages
 [![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)

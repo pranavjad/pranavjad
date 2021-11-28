@@ -2,7 +2,6 @@
 
 I am a machine learning enthusiast and competitive programmer. Currently in high school.
 
-## Credentials
 
 ### Projects
 * USACO Silver

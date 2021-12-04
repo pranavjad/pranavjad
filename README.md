@@ -5,7 +5,7 @@ I am a machine learning enthusiast and competitive programmer. Currently in high
 
 ### Projects
 * USACO Silver
-* Created a neural network model to forecast rainfall-runoff
+* Neural network model to forecast rainfall-runoff
 * Ethereum cryptocurrency graphing and charting webapp and api support by a custom dataset (currently not online): https://ethereumdata.info/
 * Ethereum holding period analysis [project](https://github.com/pranavgithub1/Ethereum-Analysis)
 

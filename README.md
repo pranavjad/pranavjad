@@ -8,6 +8,7 @@ I am a machine learning enthusiast and competitive programmer. Currently in high
 * Neural network model to forecast rainfall-runoff
 * Ethereum cryptocurrency graphing and charting webapp and api support by a custom dataset (currently not online): https://ethereumdata.info/
 * Ethereum holding period analysis [project](https://github.com/pranavgithub1/Ethereum-Analysis)
+* Browser based jigsaw puzzle [game](https://pranavgithub1.github.io/apcs_task/) (with custom jigsaw cutting algorithm).
 
 ### Languages
 [![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)

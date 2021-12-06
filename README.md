@@ -2,6 +2,8 @@
 
 I am a machine learning enthusiast and competitive programmer. Currently in high school.
 
+I also enjoy math, physics, playing the saxophone, ultimate frisbee, and philosphy.
+
 
 ### Projects
 * [USACO](http://www.usaco.org/) Silver

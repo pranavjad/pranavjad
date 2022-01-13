@@ -8,7 +8,7 @@ I also enjoy math, physics, playing the saxophone, ultimate frisbee, and philosp
 ### Projects
 * [USACO](http://www.usaco.org/) Silver
 * Neural network [model](https://github.com/pranavgithub1/Flood-Prediction-Project) to forecast rainfall-runoff
-* Ethereum cryptocurrency graphing and charting webapp and api support by a custom dataset (currently not online since I cant shell out 10 bucks a month for hosting): https://ethereumdata.info/
+* Ethereum cryptocurrency graphing and charting [webapp](https://github.com/pranavgithub1/eth-dashboard) and api support by a custom dataset.
 * Ethereum holding period analysis [project](https://github.com/pranavgithub1/Ethereum-Analysis)
 * Browser based jigsaw puzzle [game](https://pranavgithub1.github.io/apcs_task/) (with custom jigsaw cutting algorithm).
 

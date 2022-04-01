@@ -1,6 +1,6 @@
 # Pranav Jadhav
 
-I am a machine learning enthusiast and competitive programmer. Currently in high school.
+I am a machine learning enthusiast, competitive programmer, and web developer. Currently in high school.
 
 I also enjoy math, physics, playing the saxophone, ultimate frisbee, and philosphy.
 

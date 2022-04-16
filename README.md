@@ -2,9 +2,6 @@
 
 I am a machine learning enthusiast, competitive programmer, and web developer.
 
-I also enjoy math, physics, playing the saxophone, ultimate frisbee, and philosphy.
-
-
 ### Projects
 * [USACO](http://www.usaco.org/) Silver
 * Neural network [model](https://github.com/pranavgithub1/Flood-Prediction-Project) to forecast rainfall-runoff

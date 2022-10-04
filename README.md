@@ -8,7 +8,8 @@ I am a machine learning enthusiast, competitive programmer, and web developer.
 * Ethereum cryptocurrency graphing and charting [webapp](https://github.com/pranavgithub1/eth-dashboard) and api support by a custom dataset.
 * Ethereum holding period analysis [project](https://github.com/pranavgithub1/Ethereum-Analysis)
 * Browser based jigsaw puzzle [game](https://pranavgithub1.github.io/apcs_task/) (with custom jigsaw cutting algorithm).
-* [Find My Competition](https://pranavgithub1.github.io/Find-My-Competition/) - a webapp I made for [microhacks](https://microhacks.devpost.com). Won 1st Place. 
+* [Find My Competition](https://pranavgithub1.github.io/Find-My-Competition/) - a webapp I made for [microhacks](https://microhacks.devpost.com). Won 1st Place.
+* Discord lunch bot - a discord bot I made to scrape the lunch menu from my school's website so it can be easily seen through discord
 
 ### Languages
 [![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)

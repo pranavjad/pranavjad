@@ -1,7 +1,7 @@
 # Pranav Jadhav
 
 I am a machine learning enthusiast, competitive programmer, and web developer.
-I am also Director of Clubs at [CPI](https://joincpi.org/)
+I am also Director of Clubs at [CPI](https://joincpi.org/).
 
 ### Projects
 * [USACO Silver](http://www.usaco.org/) - I am ranked silver in USACO, an algorithmic competitive programming competition

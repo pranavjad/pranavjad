@@ -3,13 +3,14 @@
 I am a machine learning enthusiast, competitive programmer, and web developer.
 
 ### Projects
-* [USACO](http://www.usaco.org/) Silver
-* Neural network [model](https://github.com/pranavgithub1/Flood-Prediction-Project) to forecast rainfall-runoff
-* Ethereum cryptocurrency graphing and charting [webapp](https://github.com/pranavgithub1/eth-dashboard) and api support by a custom dataset.
-* Ethereum holding period analysis [project](https://github.com/pranavgithub1/Ethereum-Analysis)
-* Browser based jigsaw puzzle [game](https://pranavgithub1.github.io/apcs_task/) (with custom jigsaw cutting algorithm).
-* [Find My Competition](https://pranavgithub1.github.io/Find-My-Competition/) - a webapp I made for [microhacks](https://microhacks.devpost.com). Won 1st Place.
-* Discord lunch bot - a discord bot I made to scrape the lunch menu from my school's website so it can be easily seen through discord
+* [USACO Silver](http://www.usaco.org/) - I am ranked silver in USACO, an algorithmic competitive programming competition
+* [ML Flood Forecasting](https://github.com/pranavgithub1/Flood-Prediction-Project) - research project and poster for the 2022 Louisiana State of the Coast conference applying ML for river streamflow prediction.
+* [Ethereum Dashboard](https://github.com/pranavgithub1/eth-dashboard) - Ethereum data dashboard supported by a curated dataset that draws on a variety of free APIs to self-update.
+* [Ethereum holding period analysis](https://github.com/pranavgithub1/Ethereum-Analysis) - research project on holding period patterns of Ethereum investors.
+* [BrowserPuzzle](https://pranavgithub1.github.io/puzzle_game/) - final project for AP CS Principles. Browser jigsaw puzzle game with custom jigsaw generation algorithm.
+* [Find My Competition](https://pranavgithub1.github.io/Find-My-Competition/) - a web app I made for [microhacks](https://devpost.com/software/find-my-competition). Won 1st Place.
+* [Multiplayer Wordle](https://github.com/pranavgithub1/Multiplayer-Wordle-Frontend) - made for the 2022 MIT Blueprint Hackathon. Won 3rd place.
+* [Discord lunch bot](https://github.com/pranavgithub1/discord-bot) - a discord bot I made to scrape the lunch menu from my school's website so it can be easily seen through discord
 
 ### Languages
 [![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)

@@ -1,7 +1,6 @@
 # Pranav Jadhav
-
+Hi there, I am a freshman studying computer science at Purdue University.
 I am a machine learning enthusiast, competitive programmer, and web developer.
-Currently, I am a freshman studying computer science at Purdue University.
 
 
 ### Projects

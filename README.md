@@ -6,7 +6,7 @@ I am a machine learning enthusiast, competitive programmer, and web developer.
 ### Projects
 * Former Director of Clubs at [CPI](https://joincpi.org/) 2021-2023.
 * [USACO Silver](http://www.usaco.org/) - I am ranked silver in USACO, an algorithmic competitive programming competition
-* [ML Flood Forecasting](https://github.com/pranavgithub1/Flood-Prediction-Project) - research project and poster for the 2022 Louisiana State of the Coast conference applying ML for river streamflow prediction.
+* [ML Flood Forecasting](https://github.com/pranavgithub1/Flood-Prediction-Project) - research project and poster for the 2021 Louisiana State of the Coast conference applying ML for river streamflow prediction.
 * [Ethereum Dashboard](https://github.com/pranavgithub1/eth-dashboard) - Ethereum data dashboard supported by a curated dataset that draws on a variety of free APIs to self-update.
 * [Ethereum holding period analysis](https://github.com/pranavgithub1/Ethereum-Analysis) - research project on holding period patterns of Ethereum investors.
 * [BrowserPuzzle](https://pranavgithub1.github.io/puzzle_game/) - final project for AP CS Principles. Browser jigsaw puzzle game with custom jigsaw generation algorithm.

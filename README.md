@@ -6,13 +6,13 @@ I am a machine learning enthusiast, competitive programmer, and web developer.
 ### Projects
 * Former Director of Clubs at [CPI](https://joincpi.org/) 2021-2023.
 * [USACO Silver](http://www.usaco.org/) - I am ranked silver in USACO, an algorithmic competitive programming competition
-* [ML Flood Forecasting](https://github.com/pranavgithub1/Flood-Prediction-Project) - research project and poster for the 2021 Louisiana State of the Coast conference applying ML for river streamflow prediction.
-* [Ethereum Dashboard](https://github.com/pranavgithub1/eth-dashboard) - Ethereum data dashboard supported by a curated dataset that draws on a variety of free APIs to self-update.
-* [Ethereum holding period analysis](https://github.com/pranavgithub1/Ethereum-Analysis) - research project on holding period patterns of Ethereum investors.
-* [BrowserPuzzle](https://pranavgithub1.github.io/puzzle_game/) - final project for AP CS Principles. Browser jigsaw puzzle game with custom jigsaw generation algorithm.
-* [Find My Competition](https://pranavgithub1.github.io/Find-My-Competition/) - a web app I made for [microhacks](https://devpost.com/software/find-my-competition). Won 1st Place.
-* [Multiplayer Wordle](https://github.com/pranavgithub1/Multiplayer-Wordle-Frontend) - made for the 2022 MIT Blueprint Hackathon. Won 3rd place.
-* [Discord lunch bot](https://github.com/pranavgithub1/discord-bot) - a discord bot I made to scrape the lunch menu from my school's website so it can be easily seen through discord
+* [ML Flood Forecasting](https://github.com/pranavjad/Flood-Prediction-Project) - research project and poster for the 2021 Louisiana State of the Coast conference applying ML for river streamflow prediction.
+* [Ethereum Dashboard](https://github.com/pranavjad/eth-dashboard) - Ethereum data dashboard supported by a curated dataset that draws on a variety of free APIs to self-update.
+* [Ethereum holding period analysis](https://github.com/pranavjad/Ethereum-Analysis) - research project on holding period patterns of Ethereum investors.
+* [BrowserPuzzle](https://pranavjad.github.io/puzzle_game/) - final project for AP CS Principles. Browser jigsaw puzzle game with custom jigsaw generation algorithm.
+* [Find My Competition](https://pranavjad.github.io/Find-My-Competition/) - a web app I made for [microhacks](https://devpost.com/software/find-my-competition). Won 1st Place.
+* [Multiplayer Wordle](https://github.com/pranavjad/Multiplayer-Wordle-Frontend) - made for the 2022 MIT Blueprint Hackathon. Won 3rd place.
+* [Discord lunch bot](https://github.com/pranavjad/discord-bot) - a discord bot I made to scrape the lunch menu from my school's website so it can be easily seen through discord
 
 ### Languages
 [![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
@@ -24,4 +24,4 @@ I am a machine learning enthusiast, competitive programmer, and web developer.
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 <!-- ### Stats -->
-<!-- ![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgithub1&hide_border=true&layout=compact&theme=tokyonight) -->
+<!-- ![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjad&hide_border=true&layout=compact&theme=tokyonight) -->

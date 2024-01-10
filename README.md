@@ -3,7 +3,7 @@ Hi there, I am a freshman studying computer science at Purdue University.
 I am a machine learning enthusiast, competitive programmer, and web developer.
 
 ### Currently Working On...
-* Contributing to OpenSearch at AWS as part of the open search contributor initiative.
+* Project lead for ML@Purdue's TE AI Cup team.
 
 ### Projects
 * Former Director of Clubs at [CPI](https://joincpi.org/) 2021-2023.
